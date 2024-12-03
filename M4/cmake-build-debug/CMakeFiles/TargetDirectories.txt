@@ -1,0 +1,3 @@
+C:/Users/linhd/CLionProjects/Advanced Programming Techniques/s3927777/M4/cmake-build-debug/CMakeFiles/M4.dir
+C:/Users/linhd/CLionProjects/Advanced Programming Techniques/s3927777/M4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/linhd/CLionProjects/Advanced Programming Techniques/s3927777/M4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

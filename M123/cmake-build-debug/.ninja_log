@@ -1,0 +1,8 @@
+# ninja log v5
+2	204	7347050259849637	build.ninja	c0df458dacbe3cbe
+0	617	7347046030690208	CMakeFiles/M123.dir/vacuumClean.cpp.obj	8d5b2dfc28ac87cd
+24	918	7347050312434805	CMakeFiles/M123.dir/player.cpp.obj	5c658b5b7f60e5bb
+12	1053	7347050313756898	CMakeFiles/M123.dir/game.cpp.obj	af8c32cd8735baeb
+18	1087	7347050314112987	CMakeFiles/M123.dir/helper.cpp.obj	dec2311038463585
+5	1295	7347050316173525	CMakeFiles/M123.dir/board.cpp.obj	bf2db5f8d0cfe1be
+1295	1543	7347050318572917	M123.exe	d167815cd87b892a

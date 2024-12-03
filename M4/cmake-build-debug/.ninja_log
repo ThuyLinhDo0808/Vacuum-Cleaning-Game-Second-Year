@@ -1,0 +1,21 @@
+# ninja log v5
+37	1864	7347055789963914	CMakeFiles/M4.dir/player.cpp.obj	8ea72f0b2311d9f9
+1	1896	7347055790297624	CMakeFiles/M4.dir/vacuumClean.cpp.obj	5a5d7a3c68f1a24c
+26	2036	7347055791677500	CMakeFiles/M4.dir/game.cpp.obj	aa7e42a789c1803
+48	2081	7347055792136307	CMakeFiles/M4.dir/helper.cpp.obj	c0445cbf6a51e21d
+15	2362	7347055794967919	CMakeFiles/M4.dir/board.cpp.obj	8ee79e17abd11e7a
+2362	2608	7347055797385353	M4.exe	9bc4d1d0fda863cf
+3	758	7347745632335414	CMakeFiles/M4.dir/game.cpp.obj	aa7e42a789c1803
+758	1177	7347745636480028	M4.exe	9bc4d1d0fda863cf
+18	1175	7347759370818379	CMakeFiles/M4.dir/player.cpp.obj	8ea72f0b2311d9f9
+3	1181	7347759370879924	CMakeFiles/M4.dir/vacuumClean.cpp.obj	5a5d7a3c68f1a24c
+13	1194	7347759370990873	CMakeFiles/M4.dir/game.cpp.obj	aa7e42a789c1803
+10	471	7347760283810924	CMakeFiles/M4.dir/player.cpp.obj	8ea72f0b2311d9f9
+3	505	7347760284144679	CMakeFiles/M4.dir/vacuumClean.cpp.obj	5a5d7a3c68f1a24c
+13	532	7347760284422846	CMakeFiles/M4.dir/game.cpp.obj	aa7e42a789c1803
+7	641	7347760285503148	CMakeFiles/M4.dir/board.cpp.obj	8ee79e17abd11e7a
+641	812	7347760287178834	M4.exe	9bc4d1d0fda863cf
+43	1133	7347780807795356	CMakeFiles/M4.dir/player.cpp.obj	8ea72f0b2311d9f9
+24	1137	7347780807846229	CMakeFiles/M4.dir/vacuumClean.cpp.obj	5a5d7a3c68f1a24c
+37	1155	7347780808025184	CMakeFiles/M4.dir/game.cpp.obj	aa7e42a789c1803
+31	1590	7347780812349944	CMakeFiles/M4.dir/board.cpp.obj	8ee79e17abd11e7a
